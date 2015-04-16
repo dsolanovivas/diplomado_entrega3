@@ -1,0 +1,8 @@
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\CheckboxNavegadores\CheckboxNavegadores\bin\Debug\CheckboxNavegadores.exe.config
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\CheckboxNavegadores\CheckboxNavegadores\bin\Debug\CheckboxNavegadores.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\CheckboxNavegadores\CheckboxNavegadores\bin\Debug\CheckboxNavegadores.pdb
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\CheckboxNavegadores\CheckboxNavegadores\obj\Debug\CheckboxNavegadores.Form1.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\CheckboxNavegadores\CheckboxNavegadores\obj\Debug\CheckboxNavegadores.Properties.Resources.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\CheckboxNavegadores\CheckboxNavegadores\obj\Debug\CheckboxNavegadores.csproj.GenerateResource.Cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\CheckboxNavegadores\CheckboxNavegadores\obj\Debug\CheckboxNavegadores.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\CheckboxNavegadores\CheckboxNavegadores\obj\Debug\CheckboxNavegadores.pdb

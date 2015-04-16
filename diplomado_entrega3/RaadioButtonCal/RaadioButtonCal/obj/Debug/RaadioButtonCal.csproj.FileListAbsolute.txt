@@ -1,0 +1,9 @@
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\RaadioButtonCal\RaadioButtonCal\bin\Debug\RaadioButtonCal.exe.config
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\RaadioButtonCal\RaadioButtonCal\bin\Debug\RaadioButtonCal.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\RaadioButtonCal\RaadioButtonCal\bin\Debug\RaadioButtonCal.pdb
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\RaadioButtonCal\RaadioButtonCal\obj\Debug\RaadioButtonCal.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\RaadioButtonCal\RaadioButtonCal\obj\Debug\RaadioButtonCal.Form1.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\RaadioButtonCal\RaadioButtonCal\obj\Debug\RaadioButtonCal.Properties.Resources.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\RaadioButtonCal\RaadioButtonCal\obj\Debug\RaadioButtonCal.csproj.GenerateResource.Cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\RaadioButtonCal\RaadioButtonCal\obj\Debug\RaadioButtonCal.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\RaadioButtonCal\RaadioButtonCal\obj\Debug\RaadioButtonCal.pdb

@@ -1,0 +1,9 @@
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\ControlTextBox\ControlTextBox\bin\Debug\ControlTextBox.exe.config
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\ControlTextBox\ControlTextBox\obj\Debug\ControlTextBox.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\ControlTextBox\ControlTextBox\obj\Debug\ControlTextBox.Form1.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\ControlTextBox\ControlTextBox\obj\Debug\ControlTextBox.Properties.Resources.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\ControlTextBox\ControlTextBox\obj\Debug\ControlTextBox.csproj.GenerateResource.Cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\ControlTextBox\ControlTextBox\bin\Debug\ControlTextBox.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\ControlTextBox\ControlTextBox\bin\Debug\ControlTextBox.pdb
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\ControlTextBox\ControlTextBox\obj\Debug\ControlTextBox.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\ControlTextBox\ControlTextBox\obj\Debug\ControlTextBox.pdb

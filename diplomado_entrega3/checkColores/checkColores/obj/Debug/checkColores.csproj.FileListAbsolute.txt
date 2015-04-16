@@ -1,0 +1,8 @@
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\checkColores\checkColores\bin\Debug\checkColores.exe.config
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\checkColores\checkColores\bin\Debug\checkColores.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\checkColores\checkColores\bin\Debug\checkColores.pdb
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\checkColores\checkColores\obj\Debug\checkColores.Form1.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\checkColores\checkColores\obj\Debug\checkColores.Properties.Resources.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\checkColores\checkColores\obj\Debug\checkColores.csproj.GenerateResource.Cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\checkColores\checkColores\obj\Debug\checkColores.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\checkColores\checkColores\obj\Debug\checkColores.pdb

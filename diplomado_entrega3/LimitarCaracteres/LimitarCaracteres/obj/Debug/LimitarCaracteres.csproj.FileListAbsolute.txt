@@ -1,0 +1,9 @@
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\LimitarCaracteres\LimitarCaracteres\bin\Debug\LimitarCaracteres.exe.config
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\LimitarCaracteres\LimitarCaracteres\bin\Debug\LimitarCaracteres.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\LimitarCaracteres\LimitarCaracteres\bin\Debug\LimitarCaracteres.pdb
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\LimitarCaracteres\LimitarCaracteres\obj\Debug\LimitarCaracteres.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\LimitarCaracteres\LimitarCaracteres\obj\Debug\LimitarCaracteres.Form1.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\LimitarCaracteres\LimitarCaracteres\obj\Debug\LimitarCaracteres.Properties.Resources.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\LimitarCaracteres\LimitarCaracteres\obj\Debug\LimitarCaracteres.csproj.GenerateResource.Cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\LimitarCaracteres\LimitarCaracteres\obj\Debug\LimitarCaracteres.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\LimitarCaracteres\LimitarCaracteres\obj\Debug\LimitarCaracteres.pdb
